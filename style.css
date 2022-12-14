@@ -148,6 +148,7 @@ body {
 .stat .stat-body .stat-review .stat-review-number {
   font-size: 1.5rem;
   color: hsl(0deg, 0%, 100%);
+  font-weight: 900;
 }
 .stat .stat-body .stat-review .stat-review-name {
   color: hsla(0deg, 0%, 100%, 0.6);
